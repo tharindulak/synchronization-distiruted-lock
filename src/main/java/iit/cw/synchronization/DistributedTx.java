@@ -1,6 +1,5 @@
-package ds.tutorials.sycnhronization;
+package iit.cw.synchronization;
 
-import ds.tutorials.sycnhronization.ZooKeeperClient;
 import org.apache.zookeeper.WatchedEvent;
 import org.apache.zookeeper.Watcher;
 
